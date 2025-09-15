@@ -1,16 +1,35 @@
-# tadinda
+# Tadında
+Yemek Tarifleri Uygulaması – Flutter + TheMealDB API
 
-A new Flutter project.
+## İçindekiler
 
-## Getting Started
+1. [Tanıtım](#tanıtım)
+2. [Ekran Görüntüleri](#ekran-görüntüleri)
+3. [Özellikler](#özellikler)
+4. [Teknolojiler](#teknolojiler)
 
-This project is a starting point for a Flutter application.
+## Tanıtım
 
-A few resources to get you started if this is your first Flutter project:
+Bu uygulama **Flutter** ile geliştirilmiş olup, yemek tariflerini [TheMealDB](https://www.themealdb.com) API’sinden çekiyor.  
+Kullanıcı, yemek araması yapabilir, tarif detaylarını görebilir; malzemeler ve ölçüleriyle eksiksiz bir görünüme sahip.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Ekran Görüntüleri
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Ana Sayfa                          | Arama Ekranı                        | Detay Ekranı                        |
+|------------------------------------|-------------------------------------|-------------------------------------|
+| ![](assets/screenshots/photo.jpeg) | ![](assets/screenshots/photo2.jpeg) | ![](assets/screenshots/photo3.jpeg) |
+
+## Özellikler
+
+- Gerçek zamanlı arama (yazdıkça sonuç gelir)
+- Tarif detaylarını görüntüleme (tarif adımları, malzemeler)
+- Modern ve şık kullanıcı arayüzü
+- Resim desteği
+
+## Teknolojiler
+
+- **Flutter**
+- **Dart**
+- **TheMealDB API**
+- **http** paketi  
+
