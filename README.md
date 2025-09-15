@@ -15,7 +15,7 @@ Kullanıcı, yemek araması yapabilir, tarif detaylarını görebilir; malzemele
 
 ## Ekran Görüntüleri
 
-| Ana Sayfa                          | Arama Ekranı                        | Detay Ekranı                        |
+| Ana Sayfa                          | Favoriler Ekranı                    | Rastgele Yemek Ekranı               |
 |------------------------------------|-------------------------------------|-------------------------------------|
 | ![](assets/screenshots/photo.jpeg) | ![](assets/screenshots/photo2.jpeg) | ![](assets/screenshots/photo3.jpeg) |
 
